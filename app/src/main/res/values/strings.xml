@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Luncheon</string>
+    <string name="luncheon">Luncheon</string>
+    <string name="veg">Veg</string>
+    <string name="nveg">Non-Veg</string>
+    <string name="menu">Menu</string>
+    <string name="timeslots">Time Slots</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="declaration">I do NOT want to eat lunch today...</string>
+    <string name="submit">Submit</string>
+    <string name="hosteller">Hosteler</string>
+    <string name="dayscholar">Day Scholar</string>
+</resources>
